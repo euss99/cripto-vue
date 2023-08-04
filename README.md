@@ -40,6 +40,6 @@ Para utilizar CryptoConverter en tu entorno local, sigue estos pasos:
 2. Navega a la carpeta del proyecto: `cd cripto-vue`
 3. Instala las dependencias: `npm install`
 4. Inicia el servidor de desarrollo: `npm run serve`
-5. Abre tu navegador y visita: `http://localhost:5773`
+5. Abre tu navegador y visita: `http://localhost:5173`
 
 ¡Listo! Ahora puedes utilizar la app para realizar conversiones de criptomonedas a tu moneda local de manera rápida y sencilla.
